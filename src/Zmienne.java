@@ -36,6 +36,6 @@ public class Zmienne {
 
         boolean slonce = false; //true
 
-
+        // adres:
     }
 }
