@@ -36,6 +36,10 @@ public class Zmienne {
 
         boolean slonce = false; //true
 
-        // adres:
+        // adres: https://github.com/przemjan/trzeciaCgr2
+
+
+        // public\janisz
+        // uporządkujponiższy...pdf
     }
 }
